@@ -6,4 +6,4 @@ Repositorio para las prácticas de la asignatura de DSI - **3º Año de carrera*
 - Alumno: José Javier Díaz González
 
 ### Listado de prácticas:
-- #### [Práctica 1](https://github.com/alu0101128894/LPP/tree/main/p1). Configuración de máquina virtual en el IaaS
+- #### [Práctica 1](https://github.com/alu0101128894/DSI/tree/main/p1). Configuración de máquina virtual en el IaaS
