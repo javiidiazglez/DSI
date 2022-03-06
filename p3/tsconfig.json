@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "module": "CommonJS",
+    "noImplicitAny": true,                    /* Expressions and declarations with an implied 'any' type. */
+    "strictNullChecks": true                 /* Strict null checks. */
+  }
+}
