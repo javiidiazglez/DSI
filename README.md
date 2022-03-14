@@ -11,3 +11,5 @@ Repositorio para las prácticas de la asignatura de DSI - **3º Año de carrera*
 - #### [Práctica 2](https://github.com/alu0101128894/DSI/tree/main/p2). Instalación y configuración de Visual Studio Code
 
 - #### [Práctica 3](https://github.com/alu0101128894/DSI/tree/main/p3). Tipos de datos estáticos y funciones
+
+- #### [Práctica 4](https://github.com/alu0101128894/DSI/tree/main/p4). Arrays, tuplas y enumerados

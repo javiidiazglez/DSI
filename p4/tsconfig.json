@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "./tests",
+    "./dist",
+    "./node_modules"
+  ],
+
+  "compilerOptions": {
+    "target": "ES2018",
+    "declaration": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "module": "CommonJS",
+    "noImplicitAny": false,                   /* Expressions and declarations with an implied 'any' type. */
+    "strictNullChecks": true                 /* Strict null checks. */
+  }
+}
