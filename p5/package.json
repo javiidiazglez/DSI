@@ -1,0 +1,35 @@
+{
+  "name": "ull-esit-inf-dsi-21-22-prct05-objects-classes-interfaces-alu0101128894",
+  "version": "1.0.0",
+  "description": "Repositorio que contiene todo el informe desarrollado para la **Práctica 5**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "tsc-watch --onSuccess \"node dist/ejercicio-1/main-1.js\"",
+    "docum": "typedoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct05-objects-classes-interfaces-alu0101128894.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct05-objects-classes-interfaces-alu0101128894/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct05-objects-classes-interfaces-alu0101128894#readme",
+  "devDependencies": {
+    "@types/chai": "^4.3.0",
+    "@types/mocha": "^9.1.0",
+    "@typescript-eslint/eslint-plugin": "^5.15.0",
+    "@typescript-eslint/parser": "^5.15.0",
+    "chai": "^4.3.6",
+    "eslint": "^8.11.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^9.2.2",
+    "ts-node": "^10.7.0",
+    "tsc-watch": "^4.6.2",
+    "typedoc": "^0.22.13"
+  }
+}
