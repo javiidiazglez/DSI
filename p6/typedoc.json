@@ -1,0 +1,22 @@
+{
+  "entryPoints":[
+    "./src/modi-jueves/arithmeticableCollection.ts",
+    "./src/modi-jueves/interfaz.ts",
+    "./src/modi-jueves/complex.ts",
+    "./src/modi-jueves/rational.ts",
+    "./src/ejercicio-1/combat.ts",
+    "./src/ejercicio-1/dragonball.ts",
+    "./src/ejercicio-1/fighter.ts",
+    "./src/ejercicio-1/fighterdex.ts",
+    "./src/ejercicio-1/marvel.ts",
+    "./src/ejercicio-1/pokemon.ts",
+    "./src/ejercicio-1/starwars.ts",
+    "./src/ejercicio-2/basicStreamableCollection.ts",
+    "./src/ejercicio-2/documentales.ts",
+    "./src/ejercicio-2/peliculas.ts",
+    "./src/ejercicio-2/series.ts",
+    "./src/ejercicio-2/stremeable.ts"
+ ],
+ "out": "./docs/docum"
+}
+
