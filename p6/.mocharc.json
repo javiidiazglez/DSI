@@ -1,5 +1,5 @@
 {
   "extension": ["ts"],
-  "spec": "tests/**/*.spec.ts",
+  "spec": "tests/modi-jueves-p7.spec.ts",
   "require": "ts-node/register"
 }

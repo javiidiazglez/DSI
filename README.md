@@ -14,3 +14,4 @@ Repositorio para las prácticas de la asignatura de DSI - **3º Año de carrera*
 | [Práctica 4. Arrays, tuplas y enumerados](https://github.com/alu0101128894/DSI/tree/main/p4) |
 | [Práctica 5. Objetos, clases e interfaces](https://github.com/alu0101128894/DSI/tree/main/p5) |
 | [Práctica 6. Clases e interfaces genéricas. Principios SOLID](https://github.com/alu0101128894/DSI/tree/main/p6) |
+| [Práctica 7 - Digitalizando la colección de música de los abuelos](https://github.com/alu0101128894/DSI/tree/main/p7) |
