@@ -1,0 +1,606 @@
+{
+  "canciones": [
+    {
+      "nombre": "Te Quiero",
+      "autor": "David Tort",
+      "generos": [
+        "Techno"
+      ],
+      "duracion": "6:01",
+      "single": true,
+      "reproducciones": 22697
+    },
+    {
+      "nombre": "Águila del monte",
+      "autor": "David Novaceck",
+      "generos": [
+        "Techno"
+      ],
+      "duracion": "4:44",
+      "single": true,
+      "reproducciones": 67430
+    },
+    {
+      "nombre": "La Mangueleña",
+      "autor": "Gianni Romano",
+      "generos": [
+        "Techno"
+      ],
+      "duracion": "6:07",
+      "single": true,
+      "reproducciones": 6979091
+    },
+    {
+      "nombre": "Machine",
+      "autor": "INNDRIVE",
+      "generos": [
+        "Techno"
+      ],
+      "duracion": "3:54",
+      "single": true,
+      "reproducciones": 1486177
+    },
+    {
+      "nombre": "Smoking i wait",
+      "autor": "Paskman & Sara montiel",
+      "generos": [
+        "Techno"
+      ],
+      "duracion": "4:33",
+      "single": true,
+      "reproducciones": 2585538
+    },
+    {
+      "nombre": "Passion",
+      "autor": "Wade",
+      "generos": [
+        "Techno"
+      ],
+      "duracion": "2:56",
+      "single": true,
+      "reproducciones": 992984
+    },
+    {
+      "nombre": "Could you be loved",
+      "autor": "Bob Marley",
+      "generos": [
+        "Reggae"
+      ],
+      "duracion": "3:57",
+      "single": false,
+      "reproducciones": 14954363
+    },
+    {
+      "nombre": "Jammin",
+      "autor": "Bob Marley",
+      "generos": [
+        "Reggae"
+      ],
+      "duracion": "3:20",
+      "single": false,
+      "reproducciones": 99979102
+    },
+    {
+      "nombre": "Is this love",
+      "autor": "Bob Marley",
+      "generos": [
+        "Reggae"
+      ],
+      "duracion": "3:51",
+      "single": false,
+      "reproducciones": 311573969
+    },
+    {
+      "nombre": "Babilonia",
+      "autor": "Morodo",
+      "generos": [
+        "Reggae"
+      ],
+      "duracion": "4:08",
+      "single": true,
+      "reproducciones": 5794272
+    },
+    {
+      "nombre": "Red Red Wine",
+      "autor": "UB40",
+      "generos": [
+        "Reggae"
+      ],
+      "duracion": "3:23",
+      "single": false,
+      "reproducciones": 169619817
+    },
+    {
+      "nombre": "Pal Pulmón",
+      "autor": "NIKONE",
+      "generos": [
+        "Reggae",
+        "Rap"
+      ],
+      "duracion": "2:40",
+      "single": false,
+      "reproducciones": 13575279
+    },
+    {
+      "nombre": "La Florinata",
+      "autor": "Bejo",
+      "generos": [
+        "Rap"
+      ],
+      "duracion": "3:56",
+      "single": false,
+      "reproducciones": 1154019
+    },
+    {
+      "nombre": "Etapas raras",
+      "autor": "FERNANDOCOSTA",
+      "generos": [
+        "Rap"
+      ],
+      "duracion": "3:00",
+      "single": true,
+      "reproducciones": 7380657
+    },
+    {
+      "nombre": "Al Filo",
+      "autor": "FERNANDOCOSTA",
+      "generos": [
+        "Rap"
+      ],
+      "duracion": "4:17",
+      "single": true,
+      "reproducciones": 4669763
+    },
+    {
+      "nombre": "Lengua de serpiente",
+      "autor": "Blake",
+      "generos": [
+        "Rap"
+      ],
+      "duracion": "3:59",
+      "single": false,
+      "reproducciones": 13610255
+    },
+    {
+      "nombre": "Poesía maquiavélica",
+      "autor": "Blake",
+      "generos": [
+        "Rap"
+      ],
+      "duracion": "4:23",
+      "single": false,
+      "reproducciones": 2937895
+    },
+    {
+      "nombre": "Dama de la guadaña",
+      "autor": "AYAX Y PROK",
+      "generos": [
+        "Rap"
+      ],
+      "duracion": "3:34",
+      "single": false,
+      "reproducciones": 4053282
+    },
+    {
+      "nombre": "VORTEX",
+      "autor": "EVVORTEX",
+      "generos": [
+        "Phonk"
+      ],
+      "duracion": "2:20",
+      "single": true,
+      "reproducciones": 4150643
+    },
+    {
+      "nombre": "HORIZON",
+      "autor": "EVVORTEX",
+      "generos": [
+        "Phonk"
+      ],
+      "duracion": "3:12",
+      "single": true,
+      "reproducciones": 6230948
+    },
+    {
+      "nombre": "INCOMING",
+      "autor": "MC ORSEN",
+      "generos": [
+        "Phonk"
+      ],
+      "duracion": "2:20",
+      "single": false,
+      "reproducciones": 19902665
+    },
+    {
+      "nombre": "6IXSpeed",
+      "autor": "7oh2",
+      "generos": [
+        "Phonk"
+      ],
+      "duracion": "2:29",
+      "single": true,
+      "reproducciones": 8794676
+    },
+    {
+      "nombre": "North Memphis",
+      "autor": "Pharmacist",
+      "generos": [
+        "Phonk"
+      ],
+      "duracion": "2:16",
+      "single": false,
+      "reproducciones": 32218357
+    },
+    {
+      "nombre": "Sahara",
+      "autor": "Hensonn",
+      "generos": [
+        "Phonk"
+      ],
+      "duracion": "2:51",
+      "single": false,
+      "reproducciones": 8790418
+    },
+    {
+      "nombre": "Oasis",
+      "autor": "Sajanka",
+      "generos": [
+        "Psytrance"
+      ],
+      "duracion": "6:45",
+      "single": false,
+      "reproducciones": 1057092
+    },
+    {
+      "nombre": "Deep jungle walk",
+      "autor": "Astrix",
+      "generos": [
+        "Psytrance"
+      ],
+      "duracion": "9:15",
+      "single": false,
+      "reproducciones": 65300574
+    },
+    {
+      "nombre": "Dream",
+      "autor": "Kors",
+      "generos": [
+        "Psytrance"
+      ],
+      "duracion": "6:43",
+      "single": false,
+      "reproducciones": 32922
+    },
+    {
+      "nombre": "Codeine",
+      "autor": "Mandragora",
+      "generos": [
+        "Psytrance"
+      ],
+      "duracion": "5:37",
+      "single": true,
+      "reproducciones": 16285068
+    },
+    {
+      "nombre": "Free Tíbet Vini vici",
+      "autor": "Hilight Tribe",
+      "generos": [
+        "Psytrance"
+      ],
+      "duracion": "8:09",
+      "single": false,
+      "reproducciones": 127245041
+    },
+    {
+      "nombre": "Sem Voce Sou Ninguem",
+      "autor": "Mandragora",
+      "generos": [
+        "Psytrance"
+      ],
+      "duracion": "4:12",
+      "single": false,
+      "reproducciones": 8469369
+    },
+    {
+      "nombre": "Alone",
+      "autor": "Alan Walker",
+      "generos": [
+        "Pop",
+        "Electronica"
+      ],
+      "duracion": "2:45",
+      "single": true,
+      "reproducciones": 1200000000
+    },
+    {
+      "nombre": "Enemy",
+      "autor": "Imagine Dragons",
+      "generos": [
+        "Pop"
+      ],
+      "duracion": "3:33",
+      "single": false,
+      "reproducciones": 150000000
+    },
+    {
+      "nombre": "Good Vibrations",
+      "autor": "Michael Jackson",
+      "generos": [
+        "Pop"
+      ],
+      "duracion": "3:40",
+      "single": false,
+      "reproducciones": 120000000
+    },
+    {
+      "nombre": "Yesterday",
+      "autor": "Michael Jackson",
+      "generos": [
+        "Pop"
+      ],
+      "duracion": "3:50",
+      "single": false,
+      "reproducciones": 130000000
+    },
+    {
+      "nombre": "Thriller",
+      "autor": "Michael Jackson",
+      "generos": [
+        "Pop"
+      ],
+      "duracion": "3:26",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Bohemian Rhapsody",
+      "autor": "Queen",
+      "generos": [
+        "Pop"
+      ],
+      "duracion": "3:62",
+      "single": false,
+      "reproducciones": 130000000
+    },
+    {
+      "nombre": "Sittin on the Dock of the Bay",
+      "autor": "Queen",
+      "generos": [
+        "Soul"
+      ],
+      "duracion": "3:44",
+      "single": false,
+      "reproducciones": 100000000
+    },
+    {
+      "nombre": "My Woman's Good To Me",
+      "autor": "Aretha Franklin",
+      "generos": [
+        "Soul"
+      ],
+      "duracion": "3:42",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Don't Play That Song For Me",
+      "autor": "Aretha Franklin",
+      "generos": [
+        "Soul"
+      ],
+      "duracion": "3:50",
+      "single": false,
+      "reproducciones": 121000000
+    },
+    {
+      "nombre": "Let's Stay Together",
+      "autor": "Aretha Franklin",
+      "generos": [
+        "Soul"
+      ],
+      "duracion": "3:56",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Please Stay (Once You Go Away)",
+      "autor": "The Rolling Stone",
+      "generos": [
+        "Soul"
+      ],
+      "duracion": "3:20",
+      "single": false,
+      "reproducciones": 100000000
+    },
+    {
+      "nombre": "(I Can't Get No) Satisfaction",
+      "autor": "The Rolling Stones",
+      "generos": [
+        "Rock"
+      ],
+      "duracion": "3:25",
+      "single": false,
+      "reproducciones": 140000000
+    },
+    {
+      "nombre": "Respect",
+      "autor": "The Rolling Stone",
+      "generos": [
+        "Rock"
+      ],
+      "duracion": "3:10",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Stairway to Heaven",
+      "autor": "Bruce Springsteen",
+      "generos": [
+        "Rock"
+      ],
+      "duracion": "3:22",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Like a Rolling Stone",
+      "autor": "Bruce Springsteen",
+      "generos": [
+        "Rock"
+      ],
+      "duracion": "3:10",
+      "single": false,
+      "reproducciones": 100000000
+    },
+    {
+      "nombre": "Born to Run",
+      "autor": "Bruce Springsteen",
+      "generos": [
+        "Rock"
+      ],
+      "duracion": "3:35",
+      "single": false,
+      "reproducciones": 130000000
+    },
+    {
+      "nombre": "Hotel California",
+      "autor": "Bruce Springsteen",
+      "generos": [
+        "Rock"
+      ],
+      "duracion": "3:35",
+      "single": false,
+      "reproducciones": 130000000
+    },
+    {
+      "nombre": "Pequeña Serenata Nocturna",
+      "autor": "Beethoven",
+      "generos": [
+        "Clasica"
+      ],
+      "duracion": "5:10",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Para Elisa",
+      "autor": "Beethoven",
+      "generos": [
+        "Clasica"
+      ],
+      "duracion": "4:10",
+      "single": false,
+      "reproducciones": 130000000
+    },
+    {
+      "nombre": "Obertura 1812",
+      "autor": "Beethoven",
+      "generos": [
+        "Clasica"
+      ],
+      "duracion": "4:30",
+      "single": false,
+      "reproducciones": 120000000
+    },
+    {
+      "nombre": "Les Toreadors",
+      "autor": "Bizet",
+      "generos": [
+        "Clasica"
+      ],
+      "duracion": "4:10",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Sinfonía nº 5",
+      "autor": "Beethoven",
+      "generos": [
+        "Clasica"
+      ],
+      "duracion": "7:10",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "El Mesías",
+      "autor": "Handel",
+      "generos": [
+        "Clasica"
+      ],
+      "duracion": "4:20",
+      "single": false,
+      "reproducciones": 100000000
+    },
+    {
+      "nombre": "Kind of Blue",
+      "autor": "Miles Davis",
+      "generos": [
+        "Jazz"
+      ],
+      "duracion": "3:10",
+      "single": false,
+      "reproducciones": 100000000
+    },
+    {
+      "nombre": "Saxophone Colossus",
+      "autor": "Thelonious Monk",
+      "generos": [
+        "Jazz"
+      ],
+      "duracion": "3:10",
+      "single": false,
+      "reproducciones": 100000000
+    },
+    {
+      "nombre": "Hot Fives and Sevens",
+      "autor": "Thelonious Monk",
+      "generos": [
+        "Jazz"
+      ],
+      "duracion": "3:20",
+      "single": false,
+      "reproducciones": 100000000
+    },
+    {
+      "nombre": "Time Out",
+      "autor": "Thelonious Monk",
+      "generos": [
+        "Jazz"
+      ],
+      "duracion": "3:10",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "A Love Supreme",
+      "autor": "Thelonious Monk",
+      "generos": [
+        "Jazz"
+      ],
+      "duracion": "3:10",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Brilliant Corners",
+      "autor": "Thelonious Monk",
+      "generos": [
+        "Jazz"
+      ],
+      "duracion": "3:10",
+      "single": false,
+      "reproducciones": 110000000
+    },
+    {
+      "nombre": "Motomami",
+      "autor": "Rosalia",
+      "generos": [
+        "Pop"
+      ],
+      "duracion": "2:10",
+      "single": false,
+      "reproducciones": 110000000
+    }
+  ]
+}

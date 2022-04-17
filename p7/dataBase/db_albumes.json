@@ -1,0 +1,114 @@
+{
+  "albumes": [
+    {
+      "nombre": "Motomami",
+      "autor": "Rosalia",
+      "año": 2022,
+      "generos": [
+        "Pop"
+      ],
+      "canciones": [
+        "Motomami"
+      ]
+    },
+    {
+      "nombre": "Revolver",
+      "autor": "The Beatles",
+      "año": 1988,
+      "generos": [
+        "Rock"
+      ],
+      "canciones": [
+        "Taxman"
+      ]
+    },
+    {
+      "nombre": "London Calling",
+      "autor": "The Clash",
+      "año": 1980,
+      "generos": [
+        "Soul"
+      ],
+      "canciones": [
+        "Yellow Submarine"
+      ]
+    },
+    {
+      "nombre": "Beethoven",
+      "autor": "Beethoven",
+      "año": 1988,
+      "generos": [
+        "Pop"
+      ],
+      "canciones": [
+        "Yellow Submarine"
+      ]
+    },
+    {
+      "nombre": "Off the Wall",
+      "autor": "Michael Jackson",
+      "año": 1941,
+      "generos": [
+        "Soul"
+      ],
+      "canciones": [
+        "Yellow Submarine"
+      ]
+    },
+    {
+      "nombre": "Born to Run",
+      "autor": "Michael Jackson",
+      "año": 1969,
+      "generos": [
+        "Jazz"
+      ],
+      "canciones": [
+        "Saxophone Colossus"
+      ]
+    },
+    {
+      "nombre": "Stairway to Heaven",
+      "autor": "Beethoven",
+      "año": 1987,
+      "generos": [
+        "Clasica"
+      ],
+      "canciones": [
+        "Para Elisa"
+      ]
+    },
+    {
+      "nombre": "The Rolling Stones",
+      "autor": "The Rolling Stones",
+      "año": 1951,
+      "generos": [
+        "Rock"
+      ],
+      "canciones": [
+        "(I Can't Get No) Satisfaction"
+      ]
+    },
+    {
+      "nombre": "The Rolling Stones",
+      "autor": "Bruce Springsteen",
+      "año": 1987,
+      "generos": [
+        "Rock"
+      ],
+      "canciones": [
+        "Stairway to Heaven"
+      ]
+    },
+    {
+      "nombre": "HORIZON",
+      "autor": "EVVORTEX",
+      "año": 1987,
+      "generos": [
+        "Phonk"
+      ],
+      "canciones": [
+        "HORIZON"
+      ]
+    }
+  ]
+}

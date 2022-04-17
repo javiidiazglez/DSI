@@ -1,0 +1,5 @@
+{
+  "extension": ["ts"],
+  "spec": "tests/playlist.spec.ts",
+  "require": "ts-node/register"
+}

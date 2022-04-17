@@ -1,0 +1,104 @@
+{
+  "grupos": [
+    {
+      "nombre": "Grupo 5: UB40",
+      "componentes": [
+        "Jimmy Brown",
+        "Duncan Campbell",
+        "Robin Campbell",
+        "Earl Falconer",
+        "Norman Hassan",
+        "Brian Travers",
+        "Tony Mullings"
+      ],
+      "año": 1978,
+      "generos": [
+        "Reggae",
+        "pop",
+        "dub"
+      ],
+      "albumes": [
+        "Red Red Wine",
+        "Sweet Sensation"
+      ],
+      "oyentes": 5000
+    },
+    {
+      "nombre": "Grupo 4: The Rolling Stones",
+      "componentes": [
+        "Mick Jagger",
+        "Keith Richards",
+        "Ronnie Wood"
+      ],
+      "año": 1962,
+      "generos": [
+        "Rock",
+        "blues"
+      ],
+      "albumes": [
+        "Heart of Stone",
+        "Get off my cloud"
+      ],
+      "oyentes": 4000
+    },
+    {
+      "nombre": "Grupo 3: Led Zeppelin",
+      "componentes": [
+        "Jimmy Page",
+        "Robert Plant",
+        "John Paul Jones",
+        "John Bonham"
+      ],
+      "año": 1968,
+      "generos": [
+        "Soul",
+        "Rock progresivo",
+        "Rock and Roll"
+      ],
+      "albumes": [
+        "Stairway to heaven",
+        "Message in a bottle",
+        "Black dog"
+      ],
+      "oyentes": 3000
+    },
+    {
+      "nombre": "Grupo 2: AYAX Y PROK",
+      "componentes": [
+        "Ayax",
+        "Adrián"
+      ],
+      "año": 2013,
+      "generos": [
+        "Rap",
+        "Rap Crudo",
+        "Trap"
+      ],
+      "albumes": [
+        "Fresas con nata",
+        "Dama de la guadaña"
+      ],
+      "oyentes": 2000
+    },
+    {
+      "nombre": "Grupo 1: The Eagles",
+      "componentes": [
+        "Don Henley",
+        "Joe Walsh",
+        "Timothy B.",
+        "SchmitGlenn Frey",
+        "Randy Meisner"
+      ],
+      "año": 1971,
+      "generos": [
+        "Pop Rock",
+        "Country"
+      ],
+      "albumes": [
+        "Hotel California",
+        "Peaceful easy feeling"
+      ],
+      "oyentes": 1000
+    }
+  ]
+}

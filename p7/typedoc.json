@@ -1,0 +1,21 @@
+{
+  "entryPoints":[
+    "./src/estructura/album.ts",
+    "./src/estructura/artista.ts",
+    "./src/estructura/cancion.ts",
+    "./src/estructura/genero.ts",
+    "./src/estructura/grupo.ts",
+    "./src/estructura/playlist.ts",
+    "./src/estructura/schema.ts",
+    "./src/Interfaces/BaseInterface.ts",
+    "./src/main/albumInq.ts",
+    "./src/main/artistaInq.ts",
+    "./src/main/cancionInq.ts",
+    "./src/main/generoInq.ts",
+    "./src/main/grupoInq.ts",
+    "./src/main/index.ts",
+    "./src/pinquirer.ts"
+ ],
+ "out": "./typedoc"
+}
+

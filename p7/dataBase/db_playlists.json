@@ -1,0 +1,43 @@
+{
+  "playlists": [
+    {
+      "nombre": "PlayList 2",
+      "autor": "Sistema",
+      "canciones": [
+        "Alone",
+        "Enemy"
+      ],
+      "duracion": "4:10",
+      "generos": [
+        "Pop",
+        "Pop"
+      ]
+    },
+    {
+      "nombre": "PlayList 3",
+      "autor": "Sistema",
+      "canciones": [
+        "Time Out",
+        "Respect"
+      ],
+      "duracion": "4:10",
+      "generos": [
+        "Soul",
+        "Rock"
+      ]
+    },
+    {
+      "nombre": "PlayList 1",
+      "autor": "Sistema",
+      "canciones": [
+        "Motomami",
+        "Respect"
+      ],
+      "duracion": "6:10",
+      "generos": [
+        "Pop",
+        "Pop"
+      ]
+    }
+  ]
+}

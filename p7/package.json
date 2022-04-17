@@ -1,0 +1,51 @@
+{
+  "name": "ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">     <a href=\"https://coveralls.io/github/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q?branch=master\">         <img alt=\"Coverage Status\" src=\"https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/badge.svg?branch=master\">     </a>     <a href='https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/actions/workflows/node.js.yml'>         <img src='https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/actions/workflows/node.js.yml/badge.svg' alt='Tests' />     </a> </p>",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "tsc-watch --onSuccess \"node dist/index.js\"",
+    "docum": "typedoc",
+    "coverage": "nyc npm test && nyc report --reporter=lcov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q#readme",
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/lowdb": "^1.0.11",
+    "@types/mocha": "^9.1.0",
+    "@types/node": "^17.0.24",
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "chai": "^4.3.6",
+    "coveralls": "^3.1.1",
+    "eslint": "^8.13.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^9.2.2",
+    "nyc": "^15.1.0",
+    "ts-node": "^10.7.0",
+    "tsc-watch": "^5.0.3",
+    "typedoc": "^0.22.15",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/inquirer": "^8.2.1",
+    "inquirer": "^8.2.2",
+    "lowdb": "^1.0.0",
+    "scanf": "^1.1.2"
+  }
+}

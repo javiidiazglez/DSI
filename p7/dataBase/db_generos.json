@@ -1,0 +1,175 @@
+{
+  "generos": [
+    {
+      "nombre": "Reggae",
+      "grupos": [
+        "UB40",
+        "Bob Marley and The Wailers"
+      ],
+      "artistas": [
+        "Bob Marley",
+        "Morodo"
+      ],
+      "albumes": [
+        "Kaya",
+        "Legalize it"
+      ],
+      "canciones": [
+        "Red red wine",
+        "Could you be loved"
+      ]
+    },
+    {
+      "nombre": "Techno",
+      "grupos": [
+        "INNDRIVE",
+        "Paskman & Sara montiel"
+      ],
+      "artistas": [
+        "Wade",
+        "Gianni Romano"
+      ],
+      "albumes": [
+        "Mon Amour",
+        "Syro"
+      ],
+      "canciones": [
+        "Passion",
+        "Machine"
+      ]
+    },
+    {
+      "nombre": "Psytrance",
+      "grupos": [
+        "Vini Vici",
+        "KORS"
+      ],
+      "artistas": [
+        "Mandragora",
+        "Hectika"
+      ],
+      "albumes": [
+        "Number 1",
+        "Psyteck"
+      ],
+      "canciones": [
+        "Sem Voce Sou Ninguem",
+        "Dream"
+      ]
+    },
+    {
+      "nombre": "Phonk",
+      "grupos": [
+        "DJ Screw",
+        "X-Raided"
+      ],
+      "artistas": [
+        "7oh2",
+        "Pharmacist"
+      ],
+      "albumes": [
+        "Montage",
+        "ISON"
+      ],
+      "canciones": [
+        "Sahara",
+        "North Memphis"
+      ]
+    },
+    {
+      "nombre": "Pop",
+      "grupos": [
+        "BTS",
+        "Kabah"
+      ],
+      "artistas": [
+        "Arianna Grande",
+        "Miley Cyrus"
+      ],
+      "albumes": [
+        "Thriller",
+        "Purple Rain"
+      ],
+      "canciones": [
+        "Thriller",
+        "Purple Rain"
+      ]
+    },
+    {
+      "nombre": "Soul",
+      "grupos": [
+        "En Vogue",
+        "Rufus"
+      ],
+      "artistas": [
+        "Aretha Franklin",
+        "Thelonious Monk"
+      ],
+      "albumes": [
+        "Dont give up on me",
+        "Changes"
+      ],
+      "canciones": [
+        "Don't Play That Song For Me",
+        "Let's Stay Together"
+      ]
+    },
+    {
+      "nombre": "Rock",
+      "grupos": [
+        "Led Zeppelin",
+        "The Rolling Stones"
+      ],
+      "artistas": [
+        "Elvis presley",
+        "Alex Turner"
+      ],
+      "albumes": [
+        "AM",
+        "Humbug"
+      ],
+      "canciones": [
+        "Stairway to heaven",
+        "Crying lightning"
+      ]
+    },
+    {
+      "nombre": "Clasica",
+      "grupos": [
+        "Prokófie",
+        "Johannes Brahms"
+      ],
+      "artistas": [
+        "Beethoven",
+        "Haydn"
+      ],
+      "albumes": [
+        "Sacred Arias",
+        "Bocelli"
+      ],
+      "canciones": [
+        "Para Elisa",
+        "El trompeta voluntario"
+      ]
+    },
+    {
+      "nombre": "Jazz",
+      "grupos": [
+        "Weather Report",
+        "YellowJackets"
+      ],
+      "artistas": [
+        "Miles Davis",
+        "Thelonious Monk"
+      ],
+      "albumes": [
+        "Kind of blue",
+        "Giant Steps"
+      ],
+      "canciones": [
+        "Saxophone Colossus",
+        "Hot Fives and Sevens"
+      ]
+    }
+  ]
+}

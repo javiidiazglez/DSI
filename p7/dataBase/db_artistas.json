@@ -1,0 +1,160 @@
+{
+  "artistas": [
+    {
+      "nombre": "Pharmacist",
+      "grupos": [
+        "Grupo 2"
+      ],
+      "generos": [
+        "Phonk",
+        "Electronica"
+      ],
+      "albumes": [
+        "Off the Wall"
+      ],
+      "canciones": [
+        "Hot Fives and Sevens"
+      ]
+    },
+    {
+      "nombre": "Ludwig van Beethoven",
+      "grupos": [
+        "Grupo 2"
+      ],
+      "generos": [
+        "Jazz",
+        "Jazz"
+      ],
+      "albumes": [
+        "Beethoven"
+      ],
+      "canciones": [
+        "A Love Supreme"
+      ]
+    },
+    {
+      "nombre": "Michael Jackson",
+      "grupos": [
+        "Grupo 3"
+      ],
+      "generos": [
+        "Pop",
+        "Pop"
+      ],
+      "albumes": [
+        "Born to Run"
+      ],
+      "canciones": [
+        "Les Toreadors"
+      ]
+    },
+    {
+      "nombre": "The Beatles",
+      "grupos": [
+        "Grupo 3"
+      ],
+      "generos": [
+        "Pop",
+        "Pop"
+      ],
+      "albumes": [
+        "Revolver"
+      ],
+      "canciones": [
+        "Les Toreadors"
+      ]
+    },
+    {
+      "nombre": "Sajanka",
+      "grupos": [
+        "Grupo 4"
+      ],
+      "generos": [
+        "Jazz",
+        "Soul"
+      ],
+      "albumes": [
+        "The Rolling Stones"
+      ],
+      "canciones": [
+        "Les Toreadors"
+      ]
+    },
+    {
+      "nombre": "Pharmacist",
+      "grupos": [
+        "Grupo 5"
+      ],
+      "generos": [
+        "Pop",
+        "Phonk"
+      ],
+      "albumes": [
+        "London Calling"
+      ],
+      "canciones": [
+        "North Memphis"
+      ]
+    },
+    {
+      "nombre": "Pharmacist",
+      "grupos": [
+        "Grupo 1"
+      ],
+      "generos": [
+        "Grupo 1"
+      ],
+      "albumes": [
+        "Motomami"
+      ],
+      "canciones": [
+        "A Love Supreme"
+      ]
+    },
+    {
+      "nombre": "Pharmacist",
+      "grupos": [
+        "Grupo 1"
+      ],
+      "generos": [
+        "Grupo 1"
+      ],
+      "albumes": [
+        "Motomami"
+      ],
+      "canciones": [
+        "A Love Supreme"
+      ]
+    },
+    {
+      "nombre": "Pharmacist",
+      "grupos": [
+        "Grupo 1"
+      ],
+      "generos": [
+        "Grupo 1"
+      ],
+      "albumes": [
+        "Motomami"
+      ],
+      "canciones": [
+        "A Love Supreme"
+      ]
+    },
+    {
+      "nombre": "Pharmacist",
+      "grupos": [
+        "Grupo 1"
+      ],
+      "generos": [
+        "Grupo 1"
+      ],
+      "albumes": [
+        "Motomami"
+      ],
+      "canciones": [
+        "A Love Supreme"
+      ]
+    }
+  ]
+}
