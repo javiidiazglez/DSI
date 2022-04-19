@@ -2,7 +2,7 @@
 # Desarrollo Sistemas Informáticos
 
 Repositorio para las prácticas de la asignatura de DSI - **3º Año de carrera**
-- Curso 2021-2022
+- Curso 2022
 - Alumno: José Javier Díaz González
 
 ###
