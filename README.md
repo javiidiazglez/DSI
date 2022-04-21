@@ -16,4 +16,5 @@ Repositorio para las prácticas de la asignatura de DSI - **3º Año de carrera*
 | [Práctica 6. Clases e interfaces genéricas. Principios SOLID](https://github.com/alu0101128894/DSI/tree/main/p6) |
 | [Práctica 7 - Digitalizando la colección de música de los abuelos](https://github.com/alu0101128894/DSI/tree/main/p7) |
 | [Práctica 8 - Patrón de diseño (Factory Method)](https://github.com/alu0101128894/DSI/tree/main/p8) |
+| [Práctica 9 - FilterMapReduce](https://github.com/alu0101128894/DSI/tree/main/p9-modi) |
 | [Práctica 9 - Aplicación de procesamiento de notas de texto](https://github.com/alu0101128894/DSI/tree/main/p9) |
