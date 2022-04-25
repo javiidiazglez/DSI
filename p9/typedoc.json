@@ -1,0 +1,9 @@
+{
+  "entryPoints":[
+    "./src/noteApp/note.ts",
+    "./src/noteApp/noteApp.ts",
+    "./src/noteApp/userNoteOptions.ts"
+ ],
+ "out": "./typedoc"
+}
+
