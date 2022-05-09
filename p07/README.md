@@ -32,6 +32,6 @@ Se llevará a cabo un informe acerca de todos los pasos, enumerando los diferent
 | --- |
 | [Acceso al Informe P7 - Digitalizando la colección de música de los abuelos](https://ull-esit-inf-dsi-2122.github.io/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/) |
 | [Acceso a la ruta del informe](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/blob/master/docs/index.md) |
-| [Acceso al fichero código Typescript](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/tree/master/src) |
-| [Acceso al fichero de pruebas TDD](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/tree/master/tests) |
+| [Acceso al fichero código Typescript](https://github.com/alu0101128894/DSI/tree/main/p07/src) |
+| [Acceso al fichero de pruebas TDD](https://github.com/alu0101128894/DSI/tree/main/p07/tests) |
 | [Acceso a la documentación generada con Typedoc](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct07-music-datamodel-grupo-q/tree/master/typedoc) |
