@@ -33,7 +33,7 @@ Repositorio que contiene todo el informe desarrollado para la **Práctica 10**.
 | **Repositorios Práctica 10:** |
 | --- |
 | [Acceso al Informe P10 - Sistema de ficheros y creación de procesos en Node.js](https://ull-esit-inf-dsi-2122.github.io/ull-esit-inf-dsi-21-22-prct10-async-fs-process-alu0101128894/) |
-| [Acceso a la ruta del informe](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct10-async-fs-process-alu0101128894/blob/master/docs/index.md) |
+| [Acceso a la ruta del informe](https://github.com/alu0101128894/DSI/blob/main/p10/docs/index.md) |
 | [Acceso al fichero código Typescript](https://github.com/alu0101128894/DSI/tree/main/p10/src) |
 | [Acceso al fichero de pruebas TDD](https://github.com/alu0101128894/DSI/tree/main/p10/tests) |
 | [Acceso a la documentación generada con Typedoc](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct10-async-fs-process-alu0101128894/tree/master/typedoc) |
