@@ -24,17 +24,17 @@ Repositorio que contiene todo el informe desarrollado para la **Práctica 6**.
 | **Repositorios Práctica 6:** |
 | --- |
 | [Acceso al Informe P6 - Clases e interfaces genéricas. Principios SOLID](https://ull-esit-inf-dsi-2122.github.io/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/) |
-| [Acceso a la ruta del informe](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/blob/master/docs/index.md) |
-| [Acceso al fichero código Typescript](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/tree/master/src) |
-| [Acceso al fichero de pruebas TDD](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/tree/master/tests) |
+| [Acceso a la ruta del informe](https://github.com/alu0101128894/DSI/blob/main/p06/docs/index.md) |
+| [Acceso al fichero código Typescript](https://github.com/alu0101128894/DSI/tree/main/p06/src) |
+| [Acceso al fichero de pruebas TDD](https://github.com/alu0101128894/DSI/tree/main/p06/tests) |
 | [Acceso a la documentación generada con Typedoc](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/tree/master/docum) |
 
 ## Modificación Práctica 6:
-- #### [Acceso al fichero código Typescript](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/tree/master/src/modi-jueves)
-- #### [Acceso al fichero de pruebas TDD](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/blob/master/tests/modi-jueves.spec.ts)
+- #### [Acceso al fichero código Typescript](https://github.com/alu0101128894/DSI/tree/main/p06/src/modi-jueves)
+- #### [Acceso al fichero de pruebas TDD](https://github.com/alu0101128894/DSI/blob/main/p06/tests/modi-jueves.spec.ts)
 - #### [Acceso a la documentación generada con Typedoc](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/blob/master/docs/docum/index.html)
 
 ## Modificación Práctica 7:
-- #### [Acceso al fichero código Typescript](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/tree/master/src/modi-jueves-p7)
-- #### [Acceso al fichero de pruebas TDD](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/blob/master/tests/modi-jueves-p7.spec.ts)
+- #### [Acceso al fichero código Typescript](https://github.com/alu0101128894/DSI/tree/main/p06/src/modi-jueves-p7)
+- #### [Acceso al fichero de pruebas TDD](https://github.com/alu0101128894/DSI/blob/main/p06/tests/modi-jueves-p7.spec.ts)
 - #### [Acceso a la documentación generada con Typedoc](https://github.com/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101128894/blob/master/docs/docum/index.html)
