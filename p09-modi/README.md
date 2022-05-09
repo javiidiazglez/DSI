@@ -22,6 +22,6 @@
 ###
 | **Repositorios Modificación:** |
 | --- |
-| [Acceso al fichero código Typescript](https://github.com/ULL-ESIT-INF-DSI-2122/modificacion-pe-103-jueves21-04-22-alu0101128894/tree/main/src) |
-| [Acceso al fichero de pruebas TDD](https://github.com/ULL-ESIT-INF-DSI-2122/modificacion-pe-103-jueves21-04-22-alu0101128894/tree/main/tests) |
+| [Acceso al fichero código Typescript](https://github.com/alu0101128894/DSI/tree/main/p09-modi/src) |
+| [Acceso al fichero de pruebas TDD](https://github.com/alu0101128894/DSI/tree/main/p09-modi/tests) |
 | [Acceso a la documentación generada con Typedoc](https://github.com/ULL-ESIT-INF-DSI-2122/modificacion-pe-103-jueves21-04-22-alu0101128894/tree/main/typedoc) |
