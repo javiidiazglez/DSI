@@ -19,3 +19,5 @@ Repositorio para las prácticas de la asignatura de DSI - **3º Año de carrera*
 | [Práctica 9 - FilterMapReduce](https://github.com/alu0101128894/DSI/tree/main/p9-modi) |
 | [Práctica 9 - Aplicación de procesamiento de notas de texto](https://github.com/alu0101128894/DSI/tree/main/p9) |
 | [Práctica 10 - Sistema de ficheros y creación de procesos en Node.js](https://github.com/alu0101128894/DSI/tree/main/p10) |
+| [Práctica 11 - 
+Cliente y servidor para una aplicación de procesamiento de notas de texto](https://github.com/alu0101128894/DSI/tree/main/p11) |

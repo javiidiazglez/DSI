@@ -1,0 +1,17 @@
+{
+  "entryPoints":[
+    "./src/Practica/client/eventEmitterClient.ts",
+    "./src/Practica/client/noteClient.ts",
+    "./src/Practica/server/noteApp/note.ts",
+    "./src/Practica/server/noteApp/noteApp.ts",
+    "./src/Practica/server/noteApp/userNoteOptions.ts",
+    "./src/Practica/server/noteServer.ts",
+    "./src/Practica/messageType.ts",
+    "./src/Modificacion/client.ts",
+    "./src/Modificacion/CmdEventEmitter.ts",
+    "./src/Modificacion/server.ts",
+    "./src/Modificacion2/client.ts",
+    "./src/Modificacion2/server.ts"
+ ],
+ "out": "./typedoc"
+}
