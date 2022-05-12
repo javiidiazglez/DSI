@@ -1,0 +1,6 @@
+{
+  "entryPoints":[
+    "./src/Modificacion/server.ts"
+ ],
+ "out": "./typedoc"
+}
