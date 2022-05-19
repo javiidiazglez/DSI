@@ -1,0 +1,46 @@
+{
+  "name": "ull-p13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "tsc-watch --onSuccess \"node dist/index.js\"",
+    "typedoc": "typedoc",
+    "coverage": "nyc npm test && nyc report --reporter=lcov"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/express": "^4.17.13",
+    "@types/inquirer": "^8.2.1",
+    "@types/mocha": "^9.1.1",
+    "@types/mongodb": "^3.6.20",
+    "@types/validator": "^13.7.2",
+    "@types/yargs": "^17.0.10",
+    "@typescript-eslint/eslint-plugin": "^5.24.0",
+    "@typescript-eslint/parser": "^5.24.0",
+    "chai": "^4.3.6",
+    "coveralls": "^3.1.1",
+    "eslint": "^8.15.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^10.0.0",
+    "nyc": "^15.1.0",
+    "ts-node": "^10.7.0",
+    "tsc-watch": "^5.0.3",
+    "typedoc": "^0.22.15",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.33",
+    "chalk": "^4.1.2",
+    "express": "^4.18.1",
+    "lowdb": "^1.0.0",
+    "mongodb": "^3.7.3",
+    "mongoose": "^5.13.14",
+    "validator": "^13.7.0",
+    "yargs": "^17.5.1"
+  }
+}

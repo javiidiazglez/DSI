@@ -22,3 +22,4 @@ Repositorio para las prácticas de la asignatura de DSI - **3º Año de carrera*
 | [Práctica 11. Cliente y servidor para una aplicación de procesamiento de notas de texto](https://github.com/alu0101128894/DSI/tree/main/p11) |
 | [Práctica 12. Servidores Web a través de Express + Promesas](https://github.com/alu0101128894/DSI/tree/main/p12-modi) |
 | [Práctica 12. API Node/Express de gestión de información musical](https://github.com/alu0101128894/DSI/tree/main/p12) |
+| [Práctica 13. MongoDB. Modelado de objetos con Mongoose](https://github.com/alu0101128894/DSI/tree/main/p13) |

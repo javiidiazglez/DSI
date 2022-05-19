@@ -1,0 +1,8 @@
+{
+  "entryPoints":[
+    "./src/Modificacion/index.ts",
+    "./src/Modificacion/estudianteManagment.ts",
+    "./src/Modificacion/models/estudiante.ts"
+ ],
+ "out": "./typedoc"
+}
