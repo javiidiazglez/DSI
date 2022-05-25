@@ -1,9 +1,0 @@
-{
-  "entryPoints":[
-    "./src/Luchador/luchador.ts",
-    "./src/Luchador/luchadorCreator.ts",
-    "./src/Pokemon/pokemon.ts",
-    "./src/Pokemon/pokemonCreator.ts"
- ],
- "out": "./docs"
-}
